@@ -1,0 +1,27 @@
+_repo: Twentieth-Century-Negro-Literatureto-the-American-Negro_18772
+_version: 0.1.0
+alternative_title: "20th Century Negro Literature\r\nOr, A Cyclopedia of Thought on\
+  \ the Vital Topics Relating to the American Negro"
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Culp, Daniel Wallace
+    gutenberg_agent_id: '8242'
+    url: http://www.gutenberg.org/2009/agents/8242
+description: ''
+gutenberg_issued: '2006-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18772'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E151'
+- !lcsh 'African Americans -- History'
+title: "Twentieth Century Negro Literature\r\nOr, A Cyclopedia of Thought on the Vital\
+  \ Topics Relating to the American Negro"
+url: http://www.gutenberg.org/ebooks/18772
