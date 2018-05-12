@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '8242'
     url: http://www.gutenberg.org/2009/agents/8242
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18772#Twentieth-Century-Negro-Literatureto-the-American-Negro
 gutenberg_issued: '2006-07-06'
 gutenberg_type: Text
 identifiers:
